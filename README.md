@@ -16,6 +16,7 @@ To create a branch: git checkout -b my-branch-name.
 1. Once you have this project cloned and running, change the startup "Hello World!" 
 string in Main.kt to something more appropriate to your business.
 2. Create a new folder/directory under main/kotlin that holds our objects/models, call this folder 'models'
-3. 
+3. Add new models to the models folder called: Drink, Powder, Apparel
+4. Add sub folders/directories in the models folder: drink, powder, apparel
 
 n. Deploy your inventory management system to Google Cloud Platform
