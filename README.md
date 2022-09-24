@@ -20,3 +20,33 @@ string in Main.kt to something more appropriate to your business.
 4. Add sub folders/directories in the models folder: drink, powder, apparel
 
 n. Deploy your inventory management system to Google Cloud Platform
+
+
+## Project 1 Card Game
+Lets build a deck of cards with the following functionality:
+Create a new deck,
+at application startup I'd like to tell you the number of players at the table 
+grab x-position card within the deck, 
+shuffle, 
+list cards in order, 
+list cards in reverse order,
+deal hands of 5 cards each for number of players at table
+
+You'll need:
+Main application, 
+models which could include: hand, deck, player, suits(enums?), table?
+functions which might belong to a model class to complete above functionality
+
+You'll likely want to research:
+Enumerated values, 
+data structures,
+Math library,
+Loops (for each, for i),
+When and Switch statements,
+elvis operator,
+kotlin application arguments,
+constructors and default constructors in kotlin,
+kotlin companion objects
+
+Homework:
+https://ocw.mit.edu/search/?d=Electrical%20Engineering%20and%20Computer%20Science&l=Undergraduate&t=Computer%20Science
