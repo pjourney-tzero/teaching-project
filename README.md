@@ -48,5 +48,13 @@ kotlin application arguments,
 constructors and default constructors in kotlin,
 kotlin companion objects
 
+Project 1 deliverable:
+Project compiles and starts up,
+I can pass you the number of players,
+You deal hands to those players, 
+You print out each players hand on a new line, 
+You shuffle the deck, 
+You print out the reamining cards in the deck in order with one card per line
+
 Homework:
 https://ocw.mit.edu/search/?d=Electrical%20Engineering%20and%20Computer%20Science&l=Undergraduate&t=Computer%20Science
